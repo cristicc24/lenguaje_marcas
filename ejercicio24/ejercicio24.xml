@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE articulos SYSTEM "ejercicio24.dtd">
+
+<articulos>
+    <articulo>
+        <nombre>Smartphone</nombre>
+        <precio>699.99</precio>
+        <codigo>S300</codigo>
+        <fabricante>Samsung</fabricante>
+    </articulo>
+    <articulo>
+        <nombre>Portatil</nombre>
+        <precio>1199.99</precio>
+        <codigo>LP002</codigo>
+        <fabricante>Apple</fabricante>
+    </articulo>
+    <articulo>
+        <nombre>Tablet</nombre>
+        <precio>399.99</precio>
+        <codigo>TB003</codigo>
+        <fabricante>Xiaomi</fabricante>
+    </articulo>
+</articulos>
