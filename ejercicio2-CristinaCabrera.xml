@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estilo-fechas.css"?>
+
+<Fechas>
+    
+    <Dia>12</Dia>
+    <Mes>enero</Mes>
+
+    <Dia>7</Dia>
+    <Mes>abril</Mes>
+
+    <Dia>25</Dia>
+    <Mes>octubre</Mes>
+   
+</Fechas>
